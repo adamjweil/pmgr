@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://admin:admin@projectmanager.tvfnk.mongodb.net/projectManager?retryWrites=true&w=majority",
+    "jwtSecret": "pm-secret"
+}
